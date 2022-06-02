@@ -12,3 +12,34 @@ https://polygonscan.com/address/0x2953399124f0cbb46d2cbacd8a89cf0599974963
 
 14523512550641864377545907592812999300471771277669785173395979783861235189408
 
+# Como agregar Polygon a Metamask
+
+# Nombre de la red
+
+Polygon
+
+# Nueva URL de RPC
+
+Elige cualquiera de las siguientes:
+
+https://polygon-rpc.com
+
+https://rpc-mainnet.maticvigil.com 
+https://rpc-mainnet.matic.network 
+https://rpc-mainnet.matic.quiknode.pro 
+
+# ID de cadena
+
+137
+
+# Símbolo de moneda
+
+MATIC
+
+# URL de explorador de bloques
+
+https://polygonscan.com/
+
+
+
+
